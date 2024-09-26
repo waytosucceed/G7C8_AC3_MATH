@@ -1,0 +1,222 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "As they walked through the Fraction Forest, Timmy found a tree with a fraction carved into it. Which of the following fractions did Timmy find if it was an improper fraction?",
+        "options": [
+            "<sup>3</sup>&frasl;<sub>4</sub>",
+            "<sup>5</sup>&frasl;<sub>3</sub>",
+            "<sup>2</sup>&frasl;<sub>5</sub>",
+            "<sup>1</sup>&frasl;<sub>2</sub>"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Max stumbled upon a rock with a fraction etched into it. If the fraction was improper, what fraction did Max see?",
+        "options": [
+            "<sup>12</sup>&frasl;<sub>41</sub>",
+            "<sup>31</sup>&frasl;<sub>51</sub>",
+            "<sup>93</sup>&frasl;<sub>58</sub>",
+            "<sup>27</sup>&frasl;<sub>68</sub>"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q3",
+        "question": "During their journey, Timmy found a flower with fractions on its petals. Which petal had an improper fraction?",
+        "options": [
+            "<sup>75</sup>&frasl;<sub>84</sub>",
+            "<sup>56</sup>&frasl;<sub>65</sub>",
+            "<sup>79</sup>&frasl;<sub>75</sub>",
+            "<sup>44</sup>&frasl;<sub>45</sub>"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Jenny saw a butterfly with fractions on its wings. Which fraction on the butterfly's wings was an improper fraction?",
+        "options": [
+            "<sup>83</sup>&frasl;<sub>49</sub>",
+            "<sup>72</sup>&frasl;<sub>96</sub>",
+            "<sup>65</sup>&frasl;<sub>84</sub>",
+            "<sup>53</sup>&frasl;<sub>74</sub>"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Max collected some berries, each labeled with a fraction. Which berry had an improper fraction?",
+        "options": [
+            "<sup>65</sup>&frasl;<sub>56</sub>",
+            "<sup>78</sup>&frasl;<sub>87</sub>",
+            "<sup>79</sup>&frasl;<sub>97</sub>",
+            "<sup>25</sup>&frasl;<sub>52</sub>"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q6",
+        "question": "Near the end of their journey, Timmy, Jenny, and Max found a hidden scroll. Which fraction on the scroll was an improper fraction?",
+        "options": [
+            "<sup>106</sup>&frasl;<sub>107</sub>",
+            "<sup>104</sup>&frasl;<sub>105</sub>",
+            "<sup>109</sup>&frasl;<sub>107</sub>",
+            "<sup>103</sup>&frasl;<sub>104</sub>"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q7",
+        "question": "At the end of their journey, Timmy, Jenny, and Max found a hidden scroll. Which fraction on the scroll was an improper fraction?",
+        "options": [
+            "<sup>976</sup>&frasl;<sub>980</sub>",
+            "<sup>985</sup>&frasl;<sub>998</sub>",
+            "<sup>998</sup>&frasl;<sub>989</sub>",
+            "<sup>947</sup>&frasl;<sub>984</sub>"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q8",
+        "question": "Timmy, Jenny, and Max, while exploring Fraction Forest, found a stone with carvings 311/510, 213/415, and 610/508 respectively. Identify the improper fraction.",
+        "options": [
+            "<sup>311</sup>&frasl;<sub>510</sub>",
+            "<sup>213</sup>&frasl;<sub>415</sub>",
+            "<sup>610</sup>&frasl;<sub>508</sub>",
+            "None of the above"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q9",
+        "question": "Timmy encountered a problem in Fraction Forest where he needed to convert 89/40 to a mixed fraction. What is the correct answer for Timmy?",
+        "options": [
+            "./assests/images/1.jpg",
+            "./assests/images/2.jpg",
+            "./assests/images/3.jpg",
+            "./assests/images/4.jpg"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q10",
+        "question": "Max was exploring the depths of Fraction Forest and came across 27/4. What is 27/4 in mixed fraction form?",
+        "options": [
+            "./assests/images/5.jpg",
+            "./assests/images/6.jpg",
+            "./assests/images/7.jpg",
+            "./assests/images/8.jpg"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q11",
+        "question": "While travelling through Fraction Forest, the apprentices encountered 48/7. What is 48/7 in mixed fraction form?",
+        "options": [
+            "./assests/images/9.jpg",
+            "./assests/images/10.jpg",
+            "./assests/images/11.jpg",
+            "./assests/images/12.jpg"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q12",
+        "question": "Jenny found 18/5 ​ written on a magical tree in Fraction Forest. What is 18/5?",
+        "options": [
+            "./assests/images/13.jpg",
+            "./assests/images/14.jpg",
+            "./assests/images/15.jpg",
+            "./assests/images/16.jpg"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q13",
+        "question": "Timmy the apprentice found a treasure chest containing a mixed fraction.<div  style='display:flex ; justify-content:center ; align-items:center ; gap:0.3rem; font-size:1.6vw ' >The fraction was <img  style='margin-bottom:1.1%' src='./assests/question/1.png'/ width='8%'>.</div> What is this mixed fraction as an improper fraction?",
+        "options": [
+            "<sup>13</sup>&frasl;<sub>5</sub>",
+            "<sup>11</sup>&frasl;<sub>5</sub>",
+            "<sup>7</sup>&frasl;<sub>5</sub>",
+            "<sup>8</sup>&frasl;<sub>5</sub>"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q14",
+        "question": "Jenny discovered a magical scroll with the fraction<div  style='display:flex ; justify-content:center ; align-items:center ; gap:0.3rem; font-size:1.6vw ' ><img  style='margin-bottom:1.1%' src='./assests/question/2.png'/ width='8%'>.</div> What is the improper fraction equivalent of this mixed fraction?",
+        "options": [
+            "<sup>14</sup>&frasl;<sub>3</sub>",
+            "<sup>16</sup>&frasl;<sub>3</sub>",
+            "<sup>13</sup>&frasl;<sub>3</sub>",
+            "<sup>12</sup>&frasl;<sub>3</sub>"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q15",
+        "question": "Max stumbled upon an ancient tablet inscribed with <div  style='display:flex ; justify-content:center ; align-items:center ; gap:0.3rem; font-size:1.6vw ' ><img  style='margin-bottom:1.1%' src='./assests/question/3.png'/ width='8%'></div> What does this mixed fraction simplify to as an improper fraction?",
+        "options": [
+            "<sup>21</sup>&frasl;<sub>4</sub>",
+            "<sup>19</sup>&frasl;<sub>4</sub>",
+            "<sup>17</sup>&frasl;<sub>4</sub>",
+            "<sup>16</sup>&frasl;<sub>4</sub>"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q16",
+        "question": " Timmy and Jenny combined their findings and encountered<div  style='display:flex ; justify-content:center ; align-items:center ; gap:0.3rem; font-size:1.6vw ' ><img  style='margin-bottom:1.1%' src='./assests/images/4.png'/ width='8%'>engraved on a tree.</div> What is this mixed fraction when converted to an improper fraction?",
+        "options": [
+            "<sup>19</sup>&frasl;<sub>7</sub>",
+            "<sup>23</sup>&frasl;<sub>7</sub>",
+            "<sup>17</sup>&frasl;<sub>7</sub>",
+            "<sup>21</sup>&frasl;<sub>7</sub>"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q17",
+        "question": "Jenny found another relic showing <div  style='display:flex ; justify-content:center ; align-items:center ; gap:0.3rem; font-size:1.6vw ' >The fraction was <img  style='margin-bottom:1.1%' src='./assests/question/5.png'/ width='8%'></div> What is the improper fraction representation of this mixed fraction?",
+        "options": [
+            "<sup>50</sup>&frasl;<sub>8</sub>",
+            "<sup>49</sup>&frasl;<sub>8</sub>",
+            "<sup>51</sup>&frasl;<sub>8</sub>",
+            "<sup>48</sup>&frasl;<sub>8</sub>"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q18",
+        "question": "Max uncovered a hidden scroll with <div  style='display:flex ; justify-content:center ; align-items:center ; gap:0.3rem; font-size:1.6vw ' ><img  style='margin-bottom:1.1%' src='./assests/question/6.png'/ width='8%'></div> What is the improper fraction equivalent of this mixed fraction?",
+        "options": [
+            "<sup>20</sup>&frasl;<sub>9</sub>",
+            "<sup>18</sup>&frasl;<sub>9</sub>",
+            "<sup>21</sup>&frasl;<sub>9</sub>",
+            "<sup>22</sup>&frasl;<sub>9</sub>"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q19",
+        "question": "While exploring deeper into the Fraction Forest, Timmy spotted <div  style='display:flex ; justify-content:center ; align-items:center ; gap:0.3rem; font-size:1.6vw ' ><img  style='margin-bottom:1.1%' src='./assests/question/7.png'/ width='8%'>carved on a stone.</div> What does this mixed fraction simplify to as an improper fraction?",
+        "options": [
+            "<sup>42</sup>&frasl;<sub>6</sub>",
+            "<sup>45</sup>&frasl;<sub>6</sub>",
+            "<sup>43</sup>&frasl;<sub>6</sub>",
+            "<sup>47</sup>&frasl;<sub>6</sub>"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q20",
+        "question": "Timmy uncovered a hidden scroll with <div  style='display:flex ; justify-content:center ; align-items:center ; gap:0.3rem; font-size:1.6vw ' ><img  style='margin-bottom:1.1%' src='./assests/question/8.png'/ width='8%'></div> What is the improper fraction equivalent of this mixed fraction?",
+        "options": [
+            "<sup>96</sup>&frasl;<sub>8</sub>",
+            "<sup>102</sup>&frasl;<sub>8</sub>",
+            "<sup>101</sup>&frasl;<sub>8</sub>",
+            "<sup>103</sup>&frasl;<sub>8</sub>"
+        ],
+        "correct": 2
+    }
+]
